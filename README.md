@@ -1,1 +1,1 @@
-# Backend deployed URL : https://siva-assign-mentor.herokuapp.com/
+# Backend deployed URL : https://assignnment.herokuapp.com/
